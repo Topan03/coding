@@ -1,0 +1,10 @@
+body::before {
+  content: "Dear: anggita💘" !important;
+  color: white;
+  opacity: 1 !important;
+  font-size: 15px !important;
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  z-index: 2;
+}
